@@ -1,0 +1,44 @@
+{
+  "texts": {
+    "heroBadge": "Buyer-Side Representation in Egypt • EU, USA & International Buyers",
+    "heroHeadline": "Your Independent Eyes and Ears on the Ground in Egypt.",
+    "heroSubheadline": "Gama-CS operates as an uncompromising direct extension of European, U.S., and international quality assurance directors.",
+    "servicesBadge": "Surgical Origin Mandates",
+    "servicesTitle": "Core Service Portfolio",
+    "servicesSubtitle": "Practical on-site quality oversight engineered for international buyers.",
+    "calculatorTitle": "Direct Hiring vs. Gama-CS Representation",
+    "calculatorSubtitle": "Financial governance analysis.",
+    "contactTitle": "Commission a Quality Directive in Egypt",
+    "contactSubtitle": "Deploy senior QA governance.",
+    "phoneContact": "+20 100 000 0000",
+    "emailContact": "info.gamacs@gmail.com"
+  },
+  "sectionsVisibility": {
+    "hero": true,
+    "services": true,
+    "governanceHub": true,
+    "calculator": true,
+    "dossier": true,
+    "database": true,
+    "sectors": true,
+    "contact": true,
+    "footer": true
+  },
+  "calculatorPricing": {
+    "gamaRatePerAudit": 480,
+    "fteSalary": 32000,
+    "entitySetupAnnualized": 14000,
+    "expatTravelCost": 12500,
+    "minAudits": 1,
+    "maxAudits": 60,
+    "defaultAudits": 18
+  },
+  "images": {
+    "logo": "https://raw.githubusercontent.com/infogamacs-Adm/Gama-cs/main/assets/images/logo.png",
+    "heroInspection": "https://raw.githubusercontent.com/infogamacs-Adm/Gama-cs/main/assets/images/hero_egypt_inspection.jpg",
+    "facilityColdChain": "https://raw.githubusercontent.com/infogamacs-Adm/Gama-cs/main/assets/images/facility_cold_chain.jpg",
+    "sampleLabInspection": "https://raw.githubusercontent.com/infogamacs-Adm/Gama-cs/main/assets/images/sample_lab_inspection.jpg",
+    "egyptIndustrialBg": "https://raw.githubusercontent.com/infogamacs-Adm/Gama-cs/main/assets/images/egypt_industrial_bg.jpg"
+  },
+  "lastUpdated": "2026-11-05T07:27:08.053Z"
+}
