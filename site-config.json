@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-08T11:10:42.453Z",
+  "lastUpdated": "2026-11-08T11:10:59.872Z",
   "sectionsVisibility": {
-    "hero": true,
+    "hero": false,
     "services": true,
     "governanceHub": true,
     "calculator": true,
