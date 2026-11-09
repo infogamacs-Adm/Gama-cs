@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-09T08:39:50.495Z",
+  "lastUpdated": "2026-11-09T08:40:55.337Z",
   "sectionsVisibility": {
     "hero": true,
     "services": true,
@@ -16,9 +16,23 @@
     "footer": true
   },
   "deletedSections": [],
-  "customDivs": [],
+  "customDivs": [
+    {
+      "id": "custom_1794213655337_emfub",
+      "title": "Test23",
+      "badge": "Test23",
+      "subtitle": "Test23",
+      "content": "Test23",
+      "bullets": [],
+      "theme": "amber",
+      "placement": "bottom",
+      "ctaAction": "contact",
+      "visible": true,
+      "createdAt": "2026-11-09T08:40:55.337Z"
+    }
+  ],
   "texts": {
-    "heroBadge": "Buyer-Side Representation in Egypt â¢ EU, USA & International Buyers",
+    "heroBadge": "Buyer-Side Representation in Egypt Ã¢ÂÂ¢ EU, USA & International Buyers",
     "heroHeadline": "Your Independent Eyes and Ears on the Ground in Egypt.",
     "heroSubheadline": "Gama-CS operates as an uncompromising direct extension of European, U.S., and international quality assurance directors.",
     "pledgeBadge": "Zero-Supplier Charter",
