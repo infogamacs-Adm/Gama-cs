@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-09T09:08:12.485Z",
+  "lastUpdated": "2026-11-09T09:08:54.571Z",
   "sectionsVisibility": {
     "hero": true,
     "services": true,
@@ -16,21 +16,7 @@
     "footer": true
   },
   "deletedSections": [],
-  "customDivs": [
-    {
-      "id": "custom_1794213655337_emfub",
-      "title": "Test23",
-      "badge": "Test23",
-      "subtitle": "Test23",
-      "content": "Test23",
-      "bullets": [],
-      "theme": "amber",
-      "placement": "bottom",
-      "ctaAction": "contact",
-      "visible": false,
-      "createdAt": "2026-11-09T08:40:55.337Z"
-    }
-  ],
+  "customDivs": [],
   "texts": {
     "heroBadge": "Buyer-Side Representation in Egypt • EU, USA & International Buyers",
     "heroHeadline": "Your Independent Eyes and Ears on the Ground in Egypt.",
