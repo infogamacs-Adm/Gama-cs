@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-10T09:12:22.283Z",
+  "lastUpdated": "2026-11-10T09:12:24.948Z",
   "sectionsVisibility": {
     "hero": true,
     "services": true,
     "governanceHub": true,
-    "pledge": false,
+    "pledge": true,
     "strategic-edge": true,
     "model": true,
     "calculator": true,
